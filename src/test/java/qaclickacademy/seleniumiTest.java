@@ -8,10 +8,12 @@ public class seleniumiTest
 	public void rundemo()
 	{
 		System.out.println("rundemo");
+		System.out.println("its selenium test run");
 	}
 	@Test
 	public void defaultt()
 	{
 		System.out.println("default");
+		System.out.println("by defaault methods");
 	}
 }
